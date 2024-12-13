@@ -5,7 +5,8 @@ I am an Information Technology student with experience in creating **Mobile Appl
 ---
 
 ### 👨‍💻 About Me:
-- 🛠 **Creating**: Websites and Mobile Applications  
+- 🛠 **Creating**: Websites and Mobile Applications
+- ✨ **Website**: https://michaelsitanggang.github.io/WebMyPortofolio/?fbclid=PAZXh0bgNhZW0CMTEAAabyXLcMEVsL7b3bDfd3SNdvFA_YznH7nDJvocunHLK6u94Dy-2h6hdv9QM_aem__eQ5ZT-hBU9kzKx8KERQfQ
 - 📫 **Contact**: [michaelsitanggang37@gmail.com](mailto:michaelsitanggang37@gmail.com)  
 - 🔢 **Profile views**: [Visitor Count](https://michaelsitanggang.github.io/WebMyPortofolio/?fbclid=PAZXh0bgNhZW0CMTEAAabyXLcMEVsL7b3bDfd3SNdvFA_YznH7nDJvocunHLK6u94Dy-2h6hdv9QM_aem__eQ5ZT-hBU9kzKx8KERQfQ)  
 
@@ -29,7 +30,6 @@ I am an Information Technology student with experience in creating **Mobile Appl
   <img src="https://saviynt.com/hubfs/aws.png" alt="AWS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="60" height="60"/>
 </p>
 
 ---
