@@ -29,6 +29,8 @@ I am an Information Technology student with experience in creating **Mobile Appl
   <img src="https://saviynt.com/hubfs/aws.png" alt="AWS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gofiber/gofiber-original.svg" alt="GoFiber" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" alt="Gin" width="60" height="60"/>
 </p>
 
 ---
