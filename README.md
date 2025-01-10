@@ -23,8 +23,6 @@ I am an Information Technology student with experience in creating **Mobile Appl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="60" height="60"/>
-  <img src="https://www.tabnine.com/wp-content/uploads/2022/05/blog_image_24-1.png" alt="Golang" width="60" height="60"/>
-  <img src="https://repository-images.githubusercontent.com/234231371/00fd8700-5430-11ea-820b-15fd85b2472c" alt="Golang" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
